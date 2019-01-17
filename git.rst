@@ -14,9 +14,8 @@ Nelle Varoquaux
 
 Departement of Statistics, UC Berkeley
 
-Berkeley Institute for Data Science
+https://nellev.github.io/
 
-http://cbio.ensmp.fr/~nvaroquaux/
 
 .. raw:: html
 
@@ -441,7 +440,7 @@ Private git repositories
 Having private git repositories
 ================================================================================
 
-- ``Github`` 6$/month accounts
+- ``Github`` now provides illimited private repositories for everyone!
 - Setting up a repository on a server
 
 ----
