@@ -1,5 +1,5 @@
 - Rename the file ``AUTHORS`` to ``CONTRIBUTORS`` using ``git mv`` and commit
-your changes
+  your changes
 - Now delete this file and commit your changes
 - Use ``git log`` to see the history of the repository.
 - Create a ``TODO`` file, and add it to the staging area.
